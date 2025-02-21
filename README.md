@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hi there! I'm Daniel Rabanser</h2>
-<h4 align="center">And this is a Company managed profile</h4>
+<h4 align="center">This is a company-managed profile, used exclusively for work-related tasks.</h4>
 <p align="center">
   <a href="https://github.com/RabanserD">Personal GitHub</a> •
-  <a href="https://twitter.com/RabanserD">Twitter</a> •
+  <a href="https://x.com/RabanserD">X</a> •
   <a href="https://www.linkedin.com/in/rabanserd/">LinkedIn</a>
 </p>
 
